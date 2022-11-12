@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Less_Boringify_Trees/static/css/main.c62cd358.css",
+    "main.js": "/Less_Boringify_Trees/static/js/main.12209772.js",
+    "static/js/787.cda612ba.chunk.js": "/Less_Boringify_Trees/static/js/787.cda612ba.chunk.js",
+    "static/media/Hiiii.gif": "/Less_Boringify_Trees/static/media/Hiiii.c0d83991db2854d464a8.gif",
+    "static/media/Up.gif": "/Less_Boringify_Trees/static/media/Up.166a00ab44e273d0464a.gif",
+    "static/media/Eyeeee.gif": "/Less_Boringify_Trees/static/media/Eyeeee.4829a1efdf028ac696d7.gif",
+    "static/media/Typographica-Blp5.ttf": "/Less_Boringify_Trees/static/media/Typographica-Blp5.edbe0dbe561b2d9b7f90.ttf",
+    "index.html": "/Less_Boringify_Trees/index.html",
+    "main.c62cd358.css.map": "/Less_Boringify_Trees/static/css/main.c62cd358.css.map",
+    "main.12209772.js.map": "/Less_Boringify_Trees/static/js/main.12209772.js.map",
+    "787.cda612ba.chunk.js.map": "/Less_Boringify_Trees/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c62cd358.css",
+    "static/js/main.12209772.js"
+  ]
+}
