@@ -1,14 +1,19 @@
 import React from 'react'
+import exploading_head from '../Assets/Exploading_Head.gif'
 
 function AboutScreen_one() {
   return (
     <div>
         <section class="text-gray-600 body-font px-5 py-10 ">
-            <div class = "container  mx-auto flex flex-col bg-green-300 h-80">
-            <div class = "py-4 px-2 flex justify-start">
-                <h1 class = "font-extrabold text-5xl text-white">About Screen Part 1 👀👋🏻</h1>
+          <hr />
+            <div class = "container my-5 mx-auto flex flex-col bg-green-300 rounded-xl">
+            <div class = "py-4 px-2 flex justify-center items-center">
+            <img src= "https://i.imgur.com/mr3gwYE.gif" alt="loading..." class = 'h-16 '/>
+                <h1 class = "font-extrabold text-3xl text-black">Banyan Tree is the national tree of India </h1>
+                
             </div>
             </div>
+            <hr />
         </section>
     </div>
   )
